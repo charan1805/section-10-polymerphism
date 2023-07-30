@@ -1,0 +1,8 @@
+E:\my details\personal\c sharp\ assigned projects\section10\Polymershism\bin\Debug\Polymershism.exe.config
+E:\my details\personal\c sharp\ assigned projects\section10\Polymershism\bin\Debug\Polymershism.exe
+E:\my details\personal\c sharp\ assigned projects\section10\Polymershism\bin\Debug\Polymershism.pdb
+E:\my details\personal\c sharp\ assigned projects\section10\Polymershism\obj\Debug\Polymershism.csproj.AssemblyReference.cache
+E:\my details\personal\c sharp\ assigned projects\section10\Polymershism\obj\Debug\Polymershism.csproj.SuggestedBindingRedirects.cache
+E:\my details\personal\c sharp\ assigned projects\section10\Polymershism\obj\Debug\Polymershism.csproj.CoreCompileInputs.cache
+E:\my details\personal\c sharp\ assigned projects\section10\Polymershism\obj\Debug\Polymershism.exe
+E:\my details\personal\c sharp\ assigned projects\section10\Polymershism\obj\Debug\Polymershism.pdb
